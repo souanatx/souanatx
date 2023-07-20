@@ -6,6 +6,8 @@
 
 <p align="center">👋 I'm Ana, a newbie in the world of coding and started my journey last year. </p>
 
+<p align="center"> My passion for technology and problem-solving drives me to reskill into computer science as a legal adviser seeking new opportunities in the tech industry. </p>
+
 <p align="center"> Currently, I'm studying cybersecurity and network administration at CESAE. I'm passionate about web programming and have a few repositories showcasing my work from a web programming course.</p>
 
 <p align="center"> I'm passionate about web programming and have a few repositories showcasing my work from a web programming course.</p>
