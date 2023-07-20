@@ -12,6 +12,10 @@
 
 <p align="center"> I don't have much experience yet, but I'm eager to learn and contribute more to the coding community.</p>
 
+<hr> 
+
+<h2 align="center">Skills</h2>
+
 <div align="center">
   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -24,6 +28,8 @@
   <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
+
+<hr> 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anatx/">
