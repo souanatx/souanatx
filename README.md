@@ -14,32 +14,6 @@
 
 <hr> 
 
-<div align="center">
-  <h2 style="font-size: 24px; font-weight: bold; color: #78DEDE;">Skills</h2>
-</div>
-
-<div align="center">
-  <!-- Add your skills with logos here -->
-  <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
-  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/anatx/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
-
-
 <p align="center" style="font-size: 24px; font-weight: bold; color: #78DEDE;">Skills</p> 
 
 <div align="center">
