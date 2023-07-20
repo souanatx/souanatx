@@ -14,7 +14,7 @@
 
 <hr> 
 
-<h2 align="center">Skills</h2>
+<p align="center" style="font-size: 24px; font-weight: bold; color: #78DEDE;">Skills</p> 
 
 <div align="center">
   <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -30,6 +30,8 @@
 </div>
 
 <hr> 
+
+<p align="center" style="font-size: 24px; font-weight: bold; color: #78DEDE;">Socials</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anatx/">
